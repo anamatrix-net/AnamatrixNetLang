@@ -20,3 +20,4 @@ This results to:
   
 # Discussions
 Would you like a Interpreter or Compiler or Transpiled or Byte-code Interprated  based language?
+https://discord.gg/WXUjEmm8
